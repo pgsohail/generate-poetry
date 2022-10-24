@@ -1,2 +1,7 @@
-# generate-poetry
-an automatic poetry generator that mimics the human type of poems and generate random poetry
+# CreatePoetry 
+
+A poetry generator that uses the language analysis and selection tools to try to mimic human construction of poems
+
+ developed by sohail sadiq 
+ 
+  
